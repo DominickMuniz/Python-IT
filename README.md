@@ -1,2 +1,2 @@
-# Python-IT-Automation
+# Python-IT
 Python practice folder 
