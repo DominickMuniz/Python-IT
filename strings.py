@@ -1,4 +1,5 @@
 
+#checks if input is a palindrome
 def is_palindrome(input_string):
     original_string = ""
     reverse_string = ""
